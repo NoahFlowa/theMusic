@@ -1,27 +1,37 @@
-# TheMusic
+# theMusic
+theMusic is a work in progress social media app for Music.  Created by [Noah Osterhout](https://noahosterhout.com)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
+### theMusic Info
+theMusic is still in *very* early development.  I don't know if it'll take off or what features are to come.  Stay tuned!
+theMusic is also using the MIT License.  This project may be taken private whenever I want, with/out warning.
 
-## Development server
+### Features
+| Feature       | Being Worked On? | Pure? |
+| ------------- |:----------------:| -----:|
+| Launch Page   |        Y         |   N   |
+| Apple Music   |        Y         |   N   |
+| User Accounts |        N         |   N   |
+| Settings      |        N         |   N   |
+| Trending      |        N         |   N   |
+| Profiles      |        N         |   N   |
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Want to see a feature added?  Email me here --> [Right Here!](mailto:noah@noahosterhout.com)  Be sure to include in the Subject, the feature name!
 
-## Code scaffolding
+### Tools used
+##### Editor
+* [Visual Studio Code](https://code.visualstudio.com/)
+##### Libraries | Frameworks
+* [ElectronJS](https://electronjs.org/)
+* [Node.JS](https://nodejs.org/en/)
+* [Angular 7](https://angular.io/)
+* [Express JS](https://expressjs.com/)
+* [mongoose](https://mongoosejs.com/)
+##### Backend
+* [MongoDB - AWS](https://www.mongodb.com/cloud/atlas)
+* [Apple MusicKit](https://developer.apple.com/musickit/)
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Want to support the development of theMusic?
+Coming sooooooooon! (TM)
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Legal
+Copyright 2018 [Noah Osterhout](https://noahosterhout.com)
